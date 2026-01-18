@@ -1,4 +1,4 @@
-# SAE1.04 – Création d’une base de données SQLite
+# – Création d’une base de données SQLite
 
 ## Description
 Projet réalisé dans le cadre de la SAE1.04 du BUT Informatique.
